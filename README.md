@@ -14,14 +14,15 @@ Feel free to suggest additional tools to pavel@localizationguru.com. I love to d
 
 ## Free platforms for content marketing
 
-* [Medium](https://medium.com/)
-* [Quora](https://www.quora.com/)
-* [Pinterest](https://www.pinterest.com/)
-* [Reddit](https://www.reddit.com)
+* [HackerNews](https://news.ycombinator.com/) - 15+ million visitors monthly. YCombinator founded geeky news feed. 
+* [Medium](https://medium.com/) - 90+ million visitors monthly. Founded by a Twitter co-founder. Best for blogs.
+* [Quora](https://www.quora.com/) - 350+ million visitors monthly. Best for answering questions and creating Wiki answers.
+* [Pinterest](https://www.pinterest.com/) - 850+ million visitors monthly. Best for B2C pictures/photos marketing.
+* [Reddit](https://www.reddit.com) - 1.2 billion visitors monthly. Geeky community, you can be banned quickly for spamming.
 
 ## Graphics
 
-* [Canva](https://www.canva.com/)
+* [Canva](https://www.canva.com/) -
 * [Pablo](https://pablo.buffer.com/)
 * [Pic Monkey](https://www.picmonkey.com/)
 
@@ -45,7 +46,7 @@ Feel free to suggest additional tools to pavel@localizationguru.com. I love to d
 
 > _If you don't localize your communication, you are leaving money on the table._ ~ Uknown marketer
 
-* [Localization Guru](https://www.localizationguru.com/en/) - Full-stack translation service. 65+ languages & 48-hour average delivery.
+* [Localization Guru](https://www.localizationguru.com/en/) - Full-stack service. Translate ads, blogs, PR articles, landing pages, presentations, etc.
 * [Social Reach](https://socialreach.co/) - Translate social media posts.
 
 ### Others
