@@ -30,7 +30,7 @@ Feel free to suggest additional tools to pavel@localizationguru.com. I love to d
 
 * [Keywordtool.io](https://keywordtool.io/) - Long-tail keyword research.
 * [KeywordDensity:SeoBooks](http://tools.seobook.com/general/keyword-density/) - Keyword density analyzer.
-* [OpenSiteExplorer:Moz)(https://moz.com/researchtools/ose/) - Backlinks research tool.
+* [OpenSiteExplorer:Moz](https://moz.com/researchtools/ose/) - Backlinks research tool.
 * [SEO Spider:ScreamingFrog](https://www.screamingfrog.co.uk/seo-spider/) - Evaluate on-site SEO.
 
 ## Social media management
