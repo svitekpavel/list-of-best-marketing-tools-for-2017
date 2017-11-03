@@ -9,7 +9,7 @@ Feel free to suggest additional tools to pavel@localizationguru.com. I love to d
 * [Hotjar](https://www.hotjar.com/) - Analytics, heatmaps, optimization, surveys, video tracking.
 * [Inspectlet](https://www.inspectlet.com/) - Heatmaps, form analytics, video tracking.
 * [Mouseflow](https://mouseflow.com/) - Heatmaps, feedback, form analytics, video tracking.
-* [Simply Meassured](https://simplymeasured.com/) - Social media analytics.
+* [Simply Measured](https://simplymeasured.com/) - Social media analytics.
 * [SumAll](https://sumall.com/) - Social media analytics.
 
 ## Free platforms for content marketing
@@ -32,6 +32,7 @@ Feel free to suggest additional tools to pavel@localizationguru.com. I love to d
 * [KeywordDensity:SeoBooks](http://tools.seobook.com/general/keyword-density/) - Keyword density analyzer.
 * [OpenSiteExplorer:Moz](https://moz.com/researchtools/ose/) - Backlinks research tool.
 * [SEO Spider:ScreamingFrog](https://www.screamingfrog.co.uk/seo-spider/) - Evaluate on-site SEO.
+* [Storybase](https://www.storybase.com) - Keyword research with volume and variations
 
 ## Social media management
 
@@ -40,7 +41,7 @@ Feel free to suggest additional tools to pavel@localizationguru.com. I love to d
 * [ManageFlitter](https://manageflitter.com/) - Manage mutliple Twitter accounts.
 * [Plann That](https://plannthat.com/) - Instagram scheduling and analytics.
 * [Tweepi](https://tweepi.com/) - Grow Twitter profile using AI.
-
+* [Edgar](https://meetedgar.com/) - Social media management that manages itself
 
 ## Translations
 
@@ -51,4 +52,5 @@ Feel free to suggest additional tools to pavel@localizationguru.com. I love to d
 
 ### Others
 
-* [GrowthBot](http://growthbot.org/) - Chatbot marketing assistant built by Hubspot CTO. 
+* [GrowthBot](http://growthbot.org/) - Chatbot marketing assistant built by Hubspot CTO.
+* [Hull](https://www.hull.io) - Customer Data Platform
